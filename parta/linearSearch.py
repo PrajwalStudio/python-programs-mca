@@ -6,7 +6,7 @@ def linearSearch(arr, key):
 
 arr = []
 n = int(input("Enter the number of elements: "))
-print("Enter the array elements:")
+print(f"Enter the {n} array elements:")
 for _ in range(n):
     arr.append(int(input()))
 
