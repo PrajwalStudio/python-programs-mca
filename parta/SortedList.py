@@ -12,7 +12,7 @@ def insert_sorted(list, ele):
 list = []
 n = int(input("Enter the number of elements: "))
 print("Enter the array elements in any order:")
-for _ in range(n):
+for i in range(n):
     list.append(int(input()))
 
 ele = int(input("Enter the element to insert: "))
