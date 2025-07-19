@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ae729ec-b73c-4e5f-a6de-f3aec8a4e2f5" name="Changes" comment="oops program">
-      <change afterPath="$PROJECT_DIR$/parta/file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parta/source.txt" afterDir="false" />
+    <list default="true" id="4ae729ec-b73c-4e5f-a6de-f3aec8a4e2f5" name="Changes" comment="destination file">
+      <change afterPath="$PROJECT_DIR$/partb/Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Array.executor": "Run",
     "Python.SortedList.executor": "Run",
     "Python.factorial.executor": "Run",
     "Python.file.executor": "Run",
@@ -123,7 +124,23 @@
       <option name="project" value="LOCAL" />
       <updated>1752942744037</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="file copy paste">
+      <option name="closed" value="true" />
+      <created>1752943120305</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1752943120305</updated>
+    </task>
+    <task id="LOCAL-00008" summary="destination file">
+      <option name="closed" value="true" />
+      <created>1752943200413</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1752943200413</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -131,6 +148,8 @@
     <MESSAGE value="palindrome program" />
     <MESSAGE value="i in loop" />
     <MESSAGE value="oops program" />
-    <option name="LAST_COMMIT_MESSAGE" value="oops program" />
+    <MESSAGE value="file copy paste" />
+    <MESSAGE value="destination file" />
+    <option name="LAST_COMMIT_MESSAGE" value="destination file" />
   </component>
 </project>
