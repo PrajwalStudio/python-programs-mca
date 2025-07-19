@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ae729ec-b73c-4e5f-a6de-f3aec8a4e2f5" name="Changes" comment="palindrome program" />
+    <list default="true" id="4ae729ec-b73c-4e5f-a6de-f3aec8a4e2f5" name="Changes" comment="i in loop">
+      <change afterPath="$PROJECT_DIR$/parta/oops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,16 +39,22 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="305aNSCne2TvWRBbAaBHva6iTSw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.SortedList.executor": "Run",
+    "Python.oops.executor": "Run",
     "Python.palindrome.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -96,12 +105,21 @@
       <option name="project" value="LOCAL" />
       <updated>1752921608727</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="i in loop">
+      <option name="closed" value="true" />
+      <created>1752938958952</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752938958952</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fstring" />
     <MESSAGE value="palindrome program" />
-    <option name="LAST_COMMIT_MESSAGE" value="palindrome program" />
+    <MESSAGE value="i in loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="i in loop" />
   </component>
 </project>
