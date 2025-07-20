@@ -27,11 +27,11 @@ print(f"Intercept: {intercept:.2f}")
 # Predict salary for 15 years of experience
 new_exp = np.array([[15]])
 psal = model.predict(new_exp).item()
-print(f"Predicted salary | 15 YOE: {psal:.2f}")
+print(f"Predicted salary | 15 YO E: {psal:.2f}")
 
 # Plotting
 plt.plot(experience, model.predict(experience), color="red")
-plt.scatter(experience, salary, color="green")
+plt.scatter(experience, salary)
 plt.xlabel("Years of Experience")
 plt.ylabel("Salary")
 plt.legend(["Prediction Line", "Actual Data"])
