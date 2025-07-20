@@ -1,3 +1,4 @@
+#a)Array Manipulation
 import numpy as np
 
 arr = np.array([2, 4, 0, 0, 8, 1])
@@ -23,3 +24,23 @@ arr2d = np.array([[2, 4, 8, 1], [2, 4, 8, 1]])
 print("2D Array:\n", arr2d)
 print("Horizontal split:", np.hsplit(arr2d, 2))
 print("Vertical split:", np.vsplit(arr2d, 2))
+
+#b)Array Broadcasting & Plotting
+import numpy as np
+import matplotlib.pyplot as plt
+
+arr = np.array([1, 2, 3])
+print("Original array:", arr)
+print("After broadcasting +5:", arr + 5)
+print("After broadcasting *5:", arr * 5)
+
+x = np.linspace(0, 2 * np.pi, 100)
+y_sin = np.sin(x)
+y_cos = np.cos(x)
+plt.plot(x, y_sin, label='sin(x)')
+plt.plot(x, y_cos, label='cos(x)')
+plt.title("Sine and Cosine Waves")
+plt.xlabel("x")
+plt.ylabel("Value")
+plt.legend()
+plt.show()
