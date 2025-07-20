@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ae729ec-b73c-4e5f-a6de-f3aec8a4e2f5" name="Changes" comment="last commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partb/dataframe.py" beforeDir="false" afterPath="$PROJECT_DIR$/partb/dataframe.py" afterDir="false" />
-    </list>
+    <list default="true" id="4ae729ec-b73c-4e5f-a6de-f3aec8a4e2f5" name="Changes" comment="modified df" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,27 +43,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Array.executor": "Run",
-    "Python.ArrayBroadcastingPlotting.executor": "Run",
-    "Python.LinearRegression.executor": "Run",
-    "Python.LogisticRegressipn.executor": "Run",
-    "Python.SortedList.executor": "Run",
-    "Python.dataframe.executor": "Run",
-    "Python.factorial.executor": "Run",
-    "Python.file.executor": "Run",
-    "Python.oops.executor": "Run",
-    "Python.palindrome.executor": "Run",
-    "Python.plots.executor": "Run",
-    "Python.timeSeries.executor": "Run",
-    "Python.timeSeriesDOB.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ArrayBroadcastingPlotting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LinearRegression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LogisticRegressipn.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SortedList.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dataframe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.plots.executor&quot;: &quot;Run&quot;,
+    &quot;Python.timeSeries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.timeSeriesDOB.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -203,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753024320317</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="modified df">
+      <option name="closed" value="true" />
+      <created>1753027776722</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1753027776722</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -220,6 +225,7 @@
     <MESSAGE value="linear and logistic" />
     <MESSAGE value="time series" />
     <MESSAGE value="last commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="last commit" />
+    <MESSAGE value="modified df" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified df" />
   </component>
 </project>
