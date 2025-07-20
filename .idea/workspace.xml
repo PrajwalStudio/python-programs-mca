@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ae729ec-b73c-4e5f-a6de-f3aec8a4e2f5" name="Changes" comment="time series">
-      <change afterPath="$PROJECT_DIR$/partb/timeSeries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/partb/timeSeriesDOB.py" afterDir="false" />
+    <list default="true" id="4ae729ec-b73c-4e5f-a6de-f3aec8a4e2f5" name="Changes" comment="last commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/partb/dataframe.py" beforeDir="false" afterPath="$PROJECT_DIR$/partb/dataframe.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753024106860</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="last commit">
+      <option name="closed" value="true" />
+      <created>1753024320317</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1753024320317</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -211,6 +219,7 @@
     <MESSAGE value="DF and Plotting" />
     <MESSAGE value="linear and logistic" />
     <MESSAGE value="time series" />
-    <option name="LAST_COMMIT_MESSAGE" value="time series" />
+    <MESSAGE value="last commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="last commit" />
   </component>
 </project>
