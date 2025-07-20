@@ -1,7 +1,7 @@
 import numpy as np
 
-r = int(input("Enter number of rows (m): "))
-c = int(input("Enter number of columns (n): "))
+r = int(input("Enter number of rows (r): "))
+c = int(input("Enter number of columns (c): "))
 
 array=np.zeros((r,c),dtype=int)
 for i in range(r):
