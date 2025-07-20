@@ -42,5 +42,6 @@ plt.plot(x, y_cos, label='cos(x)')
 plt.title("Sine and Cosine Waves")
 plt.xlabel("x")
 plt.ylabel("Value")
+ 
 plt.legend()
 plt.show()

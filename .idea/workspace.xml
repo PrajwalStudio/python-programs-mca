@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ae729ec-b73c-4e5f-a6de-f3aec8a4e2f5" name="Changes" comment="Array">
-      <change afterPath="$PROJECT_DIR$/partb/ArrayBroadcastingPlotting.py" afterDir="false" />
+    <list default="true" id="4ae729ec-b73c-4e5f-a6de-f3aec8a4e2f5" name="Changes" comment="Plotting">
+      <change afterPath="$PROJECT_DIR$/partb/dataframe.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partb/Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/partb/Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/partb/ArrayBroadcastingPlotting.py" beforeDir="false" afterPath="$PROJECT_DIR$/partb/ArrayBroadcastingPlotting.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,20 +47,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SortedList.executor&quot;: &quot;Run&quot;,
-    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Array.executor": "Run",
+    "Python.ArrayBroadcastingPlotting.executor": "Run",
+    "Python.SortedList.executor": "Run",
+    "Python.dataframe.executor": "Run",
+    "Python.factorial.executor": "Run",
+    "Python.file.executor": "Run",
+    "Python.oops.executor": "Run",
+    "Python.palindrome.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -149,7 +151,23 @@
       <option name="project" value="LOCAL" />
       <updated>1752953864108</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Array Broadcasting">
+      <option name="closed" value="true" />
+      <created>1753000398890</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1753000398890</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Plotting">
+      <option name="closed" value="true" />
+      <created>1753000689697</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1753000689697</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -160,6 +178,8 @@
     <MESSAGE value="file copy paste" />
     <MESSAGE value="destination file" />
     <MESSAGE value="Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Array" />
+    <MESSAGE value="Array Broadcasting" />
+    <MESSAGE value="Plotting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Plotting" />
   </component>
 </project>
