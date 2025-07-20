@@ -30,7 +30,7 @@ print("\nConfusion Matrix:\n", cm)
 print("Accuracy:", acc)
 
 # Visualize confusion matrix
-sns.heatmap(cm, annot=True, fmt="d", cmap="YlGnBu")
+sns.heatmap(cm, annot=True, fmt="d")
 plt.title("Confusion Matrix")
 plt.xlabel("Predicted")
 plt.ylabel("Actual")
