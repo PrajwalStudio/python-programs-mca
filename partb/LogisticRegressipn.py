@@ -8,8 +8,6 @@ from sklearn.preprocessing import StandardScaler
 
 # Load dataset
 df = pd.read_csv("User_Data.csv")
-
-# Feature selection
 X = df[["Age", "EstimatedSalary"]].values
 Y = df["Purchased"].values
 
@@ -17,20 +15,15 @@ Y = df["Purchased"].values
 X_train, X_test, Y_train, Y_test = train_test_split(
     X, Y, test_size=0.25, random_state=0
 )
-
-# Feature scaling
 scaler = StandardScaler()
 X_train = scaler.fit_transform(X_train)
 X_test = scaler.transform(X_test)
 
-# Train logistic regression model
 model = LogisticRegression()
 model.fit(X_train, Y_train)
 
-# Make predictions
 Y_pred = model.predict(X_test)
 
-# Evaluation
 cm = confusion_matrix(Y_test, Y_pred)
 acc = accuracy_score(Y_test, Y_pred)
 print("\nConfusion Matrix:\n", cm)

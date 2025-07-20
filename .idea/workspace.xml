@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ae729ec-b73c-4e5f-a6de-f3aec8a4e2f5" name="Changes" comment="modified df">
+    <list default="true" id="4ae729ec-b73c-4e5f-a6de-f3aec8a4e2f5" name="Changes" comment="modified lr">
+      <change afterPath="$PROJECT_DIR$/partb/seabornPlot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partb/LinearRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/partb/LinearRegression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/partb/LogisticRegressipn.py" beforeDir="false" afterPath="$PROJECT_DIR$/partb/LogisticRegressipn.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,27 +47,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ArrayBroadcastingPlotting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LinearRegression.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LogisticRegressipn.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SortedList.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dataframe.executor&quot;: &quot;Run&quot;,
-    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Python.plots.executor&quot;: &quot;Run&quot;,
-    &quot;Python.timeSeries.executor&quot;: &quot;Run&quot;,
-    &quot;Python.timeSeriesDOB.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Array.executor": "Run",
+    "Python.ArrayBroadcastingPlotting.executor": "Run",
+    "Python.LinearRegression.executor": "Run",
+    "Python.LogisticRegressipn.executor": "Run",
+    "Python.SortedList.executor": "Run",
+    "Python.dataframe.executor": "Run",
+    "Python.factorial.executor": "Run",
+    "Python.file.executor": "Run",
+    "Python.oops.executor": "Run",
+    "Python.palindrome.executor": "Run",
+    "Python.plots.executor": "Run",
+    "Python.seaborn.executor": "Run",
+    "Python.seabornPlot.executor": "Run",
+    "Python.timeSeries.executor": "Run",
+    "Python.timeSeriesDOB.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -219,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753027806517</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="modified lr">
+      <option name="closed" value="true" />
+      <created>1753031661077</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1753031661077</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -237,6 +248,7 @@
     <MESSAGE value="time series" />
     <MESSAGE value="last commit" />
     <MESSAGE value="modified df" />
-    <option name="LAST_COMMIT_MESSAGE" value="modified df" />
+    <MESSAGE value="modified lr" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified lr" />
   </component>
 </project>
