@@ -1,15 +1,15 @@
-# 🐍 Second Semester Python Programs (MCA)
+# Second Semester Python Programs (MCA)
 
 This repository contains all the Python programs implemented as part of the **Second Semester** practical lab for the MCA curriculum. It covers foundational to intermediate concepts including **Recursion, OOP, File Handling, NumPy, Pandas, Matplotlib, Seaborn**, and machine learning models like **Linear and Logistic Regression**.
 
 
-## 📂 Folder Structure
+## Folder Structure
 
 - `Part-A/` → Core Python programs (Recursion, Search, OOP, etc.)
 - `Part-B/` → Advanced programs using NumPy, Pandas, Matplotlib, Seaborn, and ML
 
 
-## ✅ PART-A: Core Python Programs
+## PART-A: Core Python Programs
 
 | No. | Program Description |
 |-----|----------------------|
@@ -21,7 +21,7 @@ This repository contains all the Python programs implemented as part of the **Se
 | 6   | Copy File Contents |
 
 
-## ✅ PART-B: Data Science and ML Programs
+## PART-B: Data Science and ML Programs
 
 | No. | Program Description |
 |-----|----------------------|
@@ -36,7 +36,7 @@ This repository contains all the Python programs implemented as part of the **Se
 | 8   | Seaborn Data Visualizations |
 
 
-## 💻 How to Run
+## How to Run
 
 1. **Clone the repo**  
    bash
@@ -54,7 +54,7 @@ This repository contains all the Python programs implemented as part of the **Se
    Each `.py` file is standalone and can be executed from the terminal or your IDE.
 
 
-## 📦 Requirements
+## Requirements
 
 Make sure the following Python packages are installed:
 
@@ -71,7 +71,7 @@ To install them all at once:
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
-## 📚 Author
+## Author
 
 **Prajwal Poojary**
 MCA - Semester 2
