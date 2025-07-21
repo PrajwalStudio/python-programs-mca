@@ -39,9 +39,9 @@ This repository contains all the Python programs implemented as part of the **Se
 ## How to Run
 
 1. **Clone the repo**  
-   bash
+   ```bash
    git clone https://github.com/PrajwalStudio/python-programs-mca.git
-   cd python-programs-mca
+   cd python-programs-mca 
 
 
 2. **Install required libraries**
